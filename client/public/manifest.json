@@ -1,0 +1,20 @@
+{
+  "short_name": "Pegaki App",
+  "name": "Pegaki App",
+  "icons": [
+    {
+      "src": "https://pegaki.com.br/wp-content/uploads/2019/04/pegaki-favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://pegaki.com.br/wp-content/uploads/2019/04/pegaki-icone-72px.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
