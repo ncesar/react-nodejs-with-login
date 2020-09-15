@@ -13,7 +13,7 @@ See live at: https://pegaki.ncesar.com
 
 Since this API is not hosted by me, it can be offline by the time you enter here to take a look but the code is always here so go check it out :)
 
-Check the documentation at: https://ncesar.github.io/pegaki
+Check the documentation at: https://ncesar.github.io/pegaki/
 
 ## How to run
 
